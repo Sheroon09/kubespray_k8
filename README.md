@@ -5,7 +5,7 @@
 
 ## 📑 Table of Contents
 
-- [Introduction](#🧾Introduction)
+- [Introduction](#introduction)
 - [Overview](#verview)
 - [Setting up Virtual Machines](#setting-up-virtual-machines)
 - [Kubespray Installation](#kubespray-installation)
