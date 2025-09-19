@@ -6,7 +6,7 @@
 ## 📑 Table of Contents
 
 - [Introduction](#introduction)
-- [Overview](#verview)
+- [Overview](#overview)
 - [Setting up Virtual Machines](#setting-up-virtual-machines)
 - [Kubespray Installation](#kubespray-installation)
 - [Setting up the Kubernetes Cluster](#setting-up-the-kubernetes-cluster)
