@@ -5,14 +5,14 @@
 
 ## 📑 Table of Contents
 
-- [Introduction](#Introduction)
+- [Introduction](#🧾Introduction)
 - [Overview](#verview)
 - [Setting up Virtual Machines](#setting-up-virtual-machines)
 - [Kubespray Installation](#kubespray-installation)
 - [Setting up the Kubernetes Cluster](#setting-up-the-kubernetes-cluster)
 - [Installing Rancher to Manage our Kubernetes Cluster](#installing-rancher-to-manage-our-kubernetes-cluster)
 
-## Introduction
+## 🧾Introduction
 
 This guide demonstrates how to set up a production-grade Kubernetes cluster using Kubespray -— a versatile and powerful tool that simplifies the deployment of Kubernetes on various cloud environments, virtual machines, or bare-metal servers. By leveraging the capabilities of Kubespray. Kubespray simplifies the process of provisioning Kubernetes clusters with powerful automation, while Rancher provides an intuitive interface for managing clusters, workloads, users, and policies.
 By combining these two tools, you'll gain a flexible, scalable, and manageable Kubernetes environment that is suitable for both learning and real-world applications.
