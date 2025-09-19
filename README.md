@@ -1,4 +1,8 @@
 # Kubernetes cluster setup using Kubespray and cluster management with Rancher
+<p align="center">
+  <img src="1_0QQNxApw994Pc2MEv8B6hg.png" alt="Kubernetes Logo" width="600"/>
+</p>
+
 ## 📑 Table of Contents
 
 - [Introduction](#🧾Introduction)
