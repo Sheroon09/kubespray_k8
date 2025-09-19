@@ -226,7 +226,7 @@ docker run --rm -it --mount type=bind,source="$(pwd)"/inventory/sample,dst=/inve
 * ~/.ssh:/root/.ssh: Mounts your SSH private keys from your host into the container to enable SSH connections to your Kubernetes nodes.
 * -vvv — Debug mode: shows in-depth debug information, including SSH commands, variables, and more.
 
-# 🚀 Setting up the Kubernetes Cluster
+# 🚀Setting up the Kubernetes Cluster
 
 Once you are inside the Kubespray container’s terminal, run the following command to install and configure your Kubernetes cluster:
 
